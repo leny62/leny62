@@ -6,9 +6,9 @@ I am a software developer with a passion for coding and building innovative solu
 ## My GitHub Stats
 [![Leny Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leny62&show_icons=true&theme=radical)](https://github.com/leny62)
 
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## My Recent Projects
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
 ## Hobbies
 When I'm not coding, you can find me pursuing my hobbies:
