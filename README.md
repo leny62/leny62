@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Leny Pascal IHIRWE 👋
 
-<!--
-**leny62/leny62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a software developer with a passion for coding and building innovative solutions. I specialize in C#, Ruby, JavaScript, TypeScript, and C++, and have experience working with various libraries and frameworks, including Next.js, .NET, Ruby on Rails, and React.js.
 
-Here are some ideas to get you started:
+## My GitHub Stats
+[![Leny Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leny62&show_icons=true&theme=radical)](https://github.com/leny62)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## Hobbies
+When I'm not coding, you can find me pursuing my hobbies:
+- Playing piano 🎹
+- Swimming 🏊
+
+## Get in Touch
+You can reach me on [LinkedIn](https://www.linkedin.com/in/leny-pascal-ihirwe/) or [Twitter](https://twitter.com/LenyIhirwe).
